@@ -2,7 +2,7 @@
 # Query Master - Chat Bot
 
 ## Preview
-<img src="https://raw.githubusercontent.com/itsadityakr/todo-list-app/refs/heads/main/assets/gif.gif" alt="" width="700">
+<img src="https://raw.githubusercontent.com/itsadityakr/query-assistant-bot/refs/heads/main/assets/gif.gif" alt="" width="400">
 
 ## Overview
 
